@@ -5,3 +5,7 @@
 ##### This is an h5 Header
 ###### This is an h6 Header
 ![Image of the moon](https://www.pexels.com/photo/photo-of-moon-47367)
+```javascript
+var x = "This is a sample code";
+alert (x);
+```

@@ -9,3 +9,6 @@
 var x = "This is a sample code";
 alert (x);
 ```
+- [ ] Make A Task List
+- [ ] Add Task List
+- [ ] Finish This Assignment
